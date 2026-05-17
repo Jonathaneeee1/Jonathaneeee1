@@ -1,5 +1,5 @@
 
-  Hi, I'm Jonathan<br><br>🎓 CS50 Harvard Graduate  <br>💻 Full-Stack Developer  <br>🤖 AI Automation Enthusiast  <br>🌍 Based in Senegal  <br><br>---<br><br>🧑‍💻 About Me<br><br>I am passionate about technology and software development.  <br>After completing Harvard's CS50, I built strong foundations in computer science and programming Fun Fact<br>I started coding seriously after CS50 and never stopped building 🚀
+  Hi, I'm Jonathan<br><br>🎓 CS50 Harvard Graduate  <br>💻 Junior Developer    <br>🌍 Based in Senegal  <br><br>---<br><br>🧑‍💻 About Me<br><br>I am passionate about technology and software development.  <br>After completing Harvard's CS50, I built strong foundations in computer science and programming Fun Fact<br>I started coding seriously after CS50 and never stopped building 🚀
 
 
  🌐 Socials:
